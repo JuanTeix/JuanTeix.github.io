@@ -1,0 +1,25 @@
+commit 3cf07395fe055791d1d23d8d5688e84ca63b64ee
+Merge: 08f6c12 ca70e71
+Author: Juan Teixeira <juanteix89@gmail.com>
+Date:   Thu Oct 15 23:29:32 2015 -0430
+
+    Merge remote-tracking branch 'origin/master'
+    muy bien hemos hecho el merge o fusion del prueba2.txt con prueba3.txt
+
+commit 08f6c12ac610d29bb7209cd2f9a4e140fcbc0698
+Author: Juan Teixeira <juanteix89@gmail.com>
+Date:   Thu Oct 15 23:28:56 2015 -0430
+
+    creamos el commit de prueba3.txt pero aun no hemos hecho el merge
+
+commit ca70e71be11c487dab0ba94952bff9349ad24214
+Author: Juan Teixeira <juanteix89@hotmail.com>
+Date:   Thu Oct 15 23:23:51 2015 -0430
+
+    Create prueba2.txt
+
+commit 899318831a5fdad689a38dc354afe2aa28ed398e
+Author: Juan Teixeira <juanteix89@gmail.com>
+Date:   Thu Oct 15 23:18:04 2015 -0430
+
+    agregando el primer commit, complicado xD de git a gitHub
