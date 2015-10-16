@@ -1,0 +1,5 @@
+aqui hare un ejemplo de como si estaria trabajando con varios programadores en un mismo proyecto, creare este archivo aqui mismo directo
+en  git y el otro lo creare en mi pc desde la consola de git, 
+hare un  git fetch y luego lo fusionare con git merge, finalmente hare un commit :D u el push.
+
+si ven otro archivo con el nombre de prueba3.txt en el repo quiere decir que lo logre.! :D
